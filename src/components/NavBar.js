@@ -1,6 +1,6 @@
 import React from "react";
 // import Rick_and_Morty from "./../assets/Rick_and_Morty";
-import { Link, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 function NavBar() {
   return (
     <div className="bg-green-500 w-full p-5">
