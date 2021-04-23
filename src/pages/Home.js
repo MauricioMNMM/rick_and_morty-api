@@ -17,7 +17,7 @@ function Home() {
 
   const alerta = (event) => {
     event.preventDefault();
-    alert("Hola");
+    alert("Esto sigue en prueba...");
   };
   return (
     <div className="w-4/5 m-auto">
